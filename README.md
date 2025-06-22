@@ -17,7 +17,7 @@ g++ snake.cpp -o snake && ./snake
 À l’exécution, un menu s'affiche avec un logo "SNAKE" suivi d'un choix de niveau :
 Le joueur peut choisir entre deux niveaux de difficulté (1 ou 2).
 
-![alt text](image.png)
+![alt text](images-descriptives/image.png)
 
 ## Interface du jeu
 
@@ -31,7 +31,7 @@ Une fois le jeu lancé :
 
 - Le jeu se termine quand le serpent touche un mur ou lui-même.
 
-![alt text](image-1.png)
+![alt text](images-descriptives/image-1.png)
 
 ## Fin du jeu
 
@@ -41,4 +41,4 @@ Lorsque le joueur perd, le message suivant s’affiche :
 Game Over! Votre score est: 8
 ```
 
-![alt text](image-2.png)
+![alt text](images-descriptives/image-2.png)
